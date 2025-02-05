@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TextRPG_ygm/1.0.0": {
+        "runtime": {
+          "TextRPG_ygm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextRPG_ygm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

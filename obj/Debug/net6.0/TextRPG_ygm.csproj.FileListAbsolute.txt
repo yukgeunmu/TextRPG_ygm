@@ -1,0 +1,14 @@
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\bin\Debug\net6.0\TextRPG_ygm.exe
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\bin\Debug\net6.0\TextRPG_ygm.deps.json
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\bin\Debug\net6.0\TextRPG_ygm.runtimeconfig.json
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\bin\Debug\net6.0\TextRPG_ygm.dll
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\bin\Debug\net6.0\TextRPG_ygm.pdb
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.AssemblyInfoInputs.cache
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.AssemblyInfo.cs
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.csproj.CoreCompileInputs.cache
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.dll
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\refint\TextRPG_ygm.dll
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.pdb
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\TextRPG_ygm.genruntimeconfig.cache
+C:\Users\ygm\Workspace\TextRPG_ygm\TextRPG_ygm\obj\Debug\net6.0\ref\TextRPG_ygm.dll
